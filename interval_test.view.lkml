@@ -5,7 +5,7 @@ view: interval_test {
         SELECT 00:11:00::interval as interval UNION ALL
         SELECT 00:12:00::interval as interval UNION ALL
         SELECT 00:13:00::intercal as interval UNION ALL
-        SELECT 00:14:00::interval as interva
+        SELECT 00:14:00::interval as interval
     ;;
 
   }
