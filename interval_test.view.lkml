@@ -1,11 +1,11 @@
 view: interval_test {
   derived_table: {
     sql:
-        SELECT 10::interval as interval UNION ALL
-        SELECT 11::interval as interval UNION ALL
-        SELECT 12::interval as interval UNION ALL
-        SELECT 13::intercal as interval UNION ALL
-        SELECT 14::interval as interva
+        SELECT 00:10:00::interval as interval UNION ALL
+        SELECT 00:11:00::interval as interval UNION ALL
+        SELECT 00:12:00::interval as interval UNION ALL
+        SELECT 00:13:00::intercal as interval UNION ALL
+        SELECT 00:14:00::interval as interva
     ;;
 
   }
