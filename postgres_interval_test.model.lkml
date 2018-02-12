@@ -38,3 +38,4 @@ explore: orders {
 }
 
 explore: users {}
+explore: interval_test {}
